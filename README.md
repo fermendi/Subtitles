@@ -17,7 +17,7 @@ Fernando Mendiburu - 2021
 Download from [here](https://github.com/fermendi/Subtitles/archive/main.zip) or using git clone:
 
 ```
-$ https://github.com/fermendi/Subtitles.git
+$ git clone https://github.com/fermendi/Subtitles.git
 ```
 
 ## Foundations
